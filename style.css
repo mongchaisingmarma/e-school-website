@@ -1,0 +1,85 @@
+.container{
+    margin-bottom: 100px;
+}
+.top-area, .navbar{
+    background-color: #f0fff0 !important;
+}
+.navbar-brand img{
+    width: 150px;
+    height: 70px;
+    vertical-align: middle;
+}
+.nav-item{
+    padding-left: 20px;
+}
+.button{
+    font-size: medium;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.color-highlight1{
+    color: #fc514f;
+}
+.color-highlight2{
+    color: #21b573;
+}
+#cover-image{
+    width: 80%;
+    padding-top: 50px;
+}
+.categories img{
+    height: 100px;
+    margin-bottom: 10px;
+}
+.categories{
+    border: 1px solid white;
+    box-shadow: 5px 5px 20px lightgrey;
+    height: 300px;
+    width: 300px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px lightgrey;
+    border: none;
+}
+.card-img{
+    padding: 20px;
+}
+.card-footer img{
+    width: 20px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+    color: grey;
+}
+.test img{
+    width: 100px;
+    padding-top: 0;
+    margin-top: 0;
+}
+.test h1{
+    margin-bottom: 50px;
+    font-size: 50px;
+    font-size: 900;
+}
+.footer-area{
+    background-color: black !important;
+    color: white;
+    height: 300px;
+    padding-top: 50px;
+}
+.footer-area ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding-bottom: 50px;
+}
